@@ -7,6 +7,7 @@
 💠 **Let us analyse and compare the happiness of various countries across the globe.**
 
 💠 **We perform extensive**
+
      ⭐ Data Pre-Processing
      
      ⭐ Exploratory Data Analysis
@@ -16,6 +17,7 @@
      ⭐ Draw conclusions and analysis on basis of visualisation/graphs
    
 💠 *Technologies Used*
+
       ✔️ Find data on (https://worldhappiness.report/) for 2015-2022
       
       ✔️ *Python / R* for pre-processing of various years dataset along with combining them
