@@ -29,7 +29,7 @@
 💠 **Have a look at the detailed project report:**
       🌼 Click here : [PROJECT REPORT](https://github.com/JasweenBrar/World-Happiness-Report-Analysis/blob/main/Jasween_102017187_DASHBOARD_PROJECT_Data_Science.pdf)
     
-💠 **A glance of our DASHBOARD*:
+💠 **A glance of our DASHBOARD:**
    
    
 ![dashboard image](./images/dashboard_pic.png)
